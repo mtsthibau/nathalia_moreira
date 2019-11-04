@@ -1,0 +1,26 @@
+/* #BFBFBF
+#808080
+#FFFFFF
+#404040
+#E6E6E6 */
+
+.intro-section:before {
+    background: #000000;
+}
+
+.border-primary {
+    border-color: #404040!important;
+}
+
+.cta a span {
+    border-color: #404040;
+}
+
+.cta a:hover span {
+    background: #404040;
+    color: #fff;
+}
+
+.image-absolute-box .box {
+    background: #404040;
+}
